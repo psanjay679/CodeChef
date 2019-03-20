@@ -1,0 +1,3 @@
+/Users/sanjay.panchal/CLionProjects/CodeChefFoundataion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sanjay.panchal/CLionProjects/CodeChefFoundataion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sanjay.panchal/CLionProjects/CodeChefFoundataion/cmake-build-debug/CMakeFiles/CodeChefFoundataion.dir
