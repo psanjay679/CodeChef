@@ -8,7 +8,7 @@ for _ in range(t):
 	for i in range(n):
 		xor = ar[i]
 		for j in range(i + 1, n):
-			xor = ar[j]
+			xor = xor ^ ar[j]
 			maxXor = max(maxXor, k ^ xor)
 		maxXor = max(maxXor, k ^ xor)
 
